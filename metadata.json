@@ -1,0 +1,18 @@
+{
+  "name": "venkat-perfprobes",
+  "version": "0.1.0",
+  "author": "venkat",
+  "summary": "perfprobes",
+  "license": "Apache-2.0",
+  "source": "git@github.com:venkiamd/perfprobes.git",
+  "project_page": "https://github.com/venkiamd/perfprobes",
+  "issues_url": "https://github.com/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
